@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dcpl/static/css/main.9bf9e877.css",
+    "main.js": "/dcpl/static/js/main.c9740c67.js",
+    "static/js/787.a342c2ff.chunk.js": "/dcpl/static/js/787.a342c2ff.chunk.js",
+    "index.html": "/dcpl/index.html",
+    "main.9bf9e877.css.map": "/dcpl/static/css/main.9bf9e877.css.map",
+    "main.c9740c67.js.map": "/dcpl/static/js/main.c9740c67.js.map",
+    "787.a342c2ff.chunk.js.map": "/dcpl/static/js/787.a342c2ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf9e877.css",
+    "static/js/main.c9740c67.js"
+  ]
+}
